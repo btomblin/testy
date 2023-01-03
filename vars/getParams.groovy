@@ -1,7 +1,7 @@
 def call() {
     properties([
         parameters([
-            booleanParam(defaultValue: false, name: 'BuildAll', description: '')
+            booleanParam(defaultValue: false, name: 'BuildAll', description: 'ermahgerds')
         ])
     ])
 }
