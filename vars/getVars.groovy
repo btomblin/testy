@@ -10,6 +10,6 @@ def call() {
         'peeriq-piq-dev3',
 
         'peeriq-piq-stage',
-        'peeriq-piq-prod',
+        'peeriq-piq-prodie',
     ]
 }
